@@ -36,3 +36,4 @@ Tamales Recipe by Lauren Allen
 Link: https://tastesbetterfromscratch.com/mexican-tamales/
 
 This is my Odin Recipes Project - Completed!
+In this project, I definitely utilized a lot of what I had learned in HTML. Lists were utilized in the steps and ingredients for each recipe. I used relative paths for the images and the links for each recipe. I decided to download the images to my local machine and use relative paths for those to avoid a possible change of link or removal of image that would cause a broken image link in my project. Lastly, I utilized a lot of git to stage my changes and then commit them to my local repository. Now I just need to push the final changes to my Github repository. Overall, I found the project to be very useful in applying what I've learned so far, and I look forward to coming back to it later to refine it once I gain more skills. 
