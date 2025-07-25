@@ -14,8 +14,8 @@ Link: https://www.aheadofthyme.com/non-alcoholic-homemade-eggnog/
 Empanadas JPG image by Gonzalo Rivero
 Link: https://commons.wikimedia.org/wiki/File:Empanadas_salte%C3%B1as_1.jpg
 
-Empanadas Recipe by 
-Link:
+Empanadas Recipe by Tiffany Azure
+Link: https://www.lecremedelacrumb.com/easy-beef-empanadas/
 
 Lasagna JPG image by jeffreyw
 Link: https://commons.wikimedia.org/wiki/File:Lasagna_%281%29.jpg
