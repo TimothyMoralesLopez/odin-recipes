@@ -32,7 +32,7 @@ Link: https://www.laurafuentes.com/fluffy-pancakes-recipe/
 Tamales JPG image by Ivette Degollado
 Link: https://commons.wikimedia.org/wiki/File:Tamales_mexicanos.jpg
 
-Tamales Recipe by
-Link:
+Tamales Recipe by Lauren Allen
+Link: https://tastesbetterfromscratch.com/mexican-tamales/
 
 This is my Odin Recipes Project - Completed!
