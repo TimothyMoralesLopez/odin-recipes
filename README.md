@@ -20,8 +20,8 @@ Link: https://www.lecremedelacrumb.com/easy-beef-empanadas/
 Lasagna JPG image by jeffreyw
 Link: https://commons.wikimedia.org/wiki/File:Lasagna_%281%29.jpg
 
-Lasagna Recipe by
-Link:
+Lasagna Recipe by Stephanie Melchione
+Link: https://thecozycook.com/easy-lasagna-recipe/
 
 Pancakes JPG image by Nightcrafter
 Link: https://commons.wikimedia.org/wiki/File:Pancakes_with_fruit.jpg
