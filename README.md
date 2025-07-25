@@ -26,8 +26,8 @@ Link: https://thecozycook.com/easy-lasagna-recipe/
 Pancakes JPG image by Nightcrafter
 Link: https://commons.wikimedia.org/wiki/File:Pancakes_with_fruit.jpg
 
-Pancakes Recipe by
-Link:
+Pancakes Recipe by Laura Fuentes
+Link: https://www.laurafuentes.com/fluffy-pancakes-recipe/
 
 Tamales JPG image by Ivette Degollado
 Link: https://commons.wikimedia.org/wiki/File:Tamales_mexicanos.jpg
