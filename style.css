@@ -1,0 +1,31 @@
+html
+{
+    font-family: Garamond, serif;
+    box-sizing:border-box;
+    text-align:center;
+}
+
+body
+{
+    background-color:purple;
+}
+
+h1
+{
+    border: 10px dotted green;
+    text-align:center;
+}
+
+ul
+{
+    display:inline-block;
+}
+
+li
+{
+    text-align:center;
+    background-color:rgb(11, 223, 216);
+    border:10px solid rgb(123, 178, 217);
+    height:50px;
+    width:100px;
+}
